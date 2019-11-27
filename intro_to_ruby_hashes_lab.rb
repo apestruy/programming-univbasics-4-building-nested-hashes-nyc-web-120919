@@ -3,7 +3,8 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-  game_list = { :game_1 => "monopoly" }
+  game_list = { 
+    :game_1 => { :monopoly => :railroads } }
   
 end
 
