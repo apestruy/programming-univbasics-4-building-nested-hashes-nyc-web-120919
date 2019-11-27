@@ -1,5 +1,5 @@
 def base_hash
-  games = {
+  game_list = { :game_1 => "monopoly" }
   }
 end
 
